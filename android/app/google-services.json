@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "509297669902",
+    "firebase_url": "https://push-sns-test-1f4c3.firebaseio.com",
+    "project_id": "push-sns-test-1f4c3",
+    "storage_bucket": "push-sns-test-1f4c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509297669902:android:bb08ecb6a4ae4ce243c95f",
+        "android_client_info": {
+          "package_name": "com.pushsnstest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509297669902-6d0sb0h8ber317qk9mh718cv02j3q371.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTHKxYfzJxe8P_Dka6RrEkX9W6hzN645U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509297669902-6d0sb0h8ber317qk9mh718cv02j3q371.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
